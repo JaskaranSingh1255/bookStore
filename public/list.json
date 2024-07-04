@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Good for kids",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-vertical-poster-template-world-book-day-celebration_23-2150183352.jpg?t=st=1719944662~exp=1719948262~hmac=73f50067769f0da72b74db409be3cda55677d2191805b410176d68020de0a6ae&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Family-Friendly",
+        "price":200,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/gradient-april-fools-day-vertical-poster-template_23-2151254764.jpg?t=st=1720011095~exp=1720014695~hmac=ea28c86659991606a14033c996bddc2a4f6e49566c3af33c739953c280288029&w=740"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Good for kids",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-vertical-poster-template-world-book-day-celebration_23-2150183352.jpg?t=st=1719944662~exp=1719948262~hmac=73f50067769f0da72b74db409be3cda55677d2191805b410176d68020de0a6ae&w=740"
+    },
+    {
+        "id":4,
+        "name":"Sports Book",
+        "title":"For Adults",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/sport-home-flyer-v_23-2148720423.jpg?t=st=1720011150~exp=1720014750~hmac=55164de59859adbc8735a4f15a6f721be618acb9974489afbcef4745f799f983&w=740"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Cooking",
+        "price":330,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/healthy-food-restaurant-poster-template-theme_23-2148500570.jpg?t=st=1720011005~exp=1720014605~hmac=f04708d356003f5783a99182c88437ef098008a907680ccbf0d8782be3b07bbd&w=740"
+    },
+    {
+        "id":6,
+        "name":"Comedy Book",
+        "title":"Family-Friendly",
+        "price":300,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/gradient-april-fools-day-vertical-poster-template_23-2151254764.jpg?t=st=1720011095~exp=1720014695~hmac=ea28c86659991606a14033c996bddc2a4f6e49566c3af33c739953c280288029&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Family-Friendly",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-vertical-poster-template-world-book-day-celebration_23-2150183352.jpg?t=st=1719944662~exp=1719948262~hmac=73f50067769f0da72b74db409be3cda55677d2191805b410176d68020de0a6ae&w=740"
+    },
+    {
+        "id":8,
+        "name":"Sports Book",
+        "title":"For Adults",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/sport-home-flyer-v_23-2148720423.jpg?t=st=1720011150~exp=1720014750~hmac=55164de59859adbc8735a4f15a6f721be618acb9974489afbcef4745f799f983&w=740"
+    },
+    {
+        "id":9,
+        "name":"Comedy Book",
+        "title":"Family-Friendly",
+        "price":400,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/gradient-april-fools-day-vertical-poster-template_23-2151254764.jpg?t=st=1720011095~exp=1720014695~hmac=ea28c86659991606a14033c996bddc2a4f6e49566c3af33c739953c280288029&w=740"
+    },
+    {
+        "id":10,
+        "name":"Food Book",
+        "title":"Cooking",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/healthy-food-restaurant-poster-template-theme_23-2148500570.jpg?t=st=1720011005~exp=1720014605~hmac=f04708d356003f5783a99182c88437ef098008a907680ccbf0d8782be3b07bbd&w=740"
+    }
+
+]
