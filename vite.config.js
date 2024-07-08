@@ -8,5 +8,9 @@ export default defineConfig({
     alias: {
       '@public': path.resolve(__dirname, 'public')
     }
-  }
+  },
+  server: {
+    port: parseInt(process.env.PORT) || 3000,
+    host: true, // This makes the server accessible externally
+  },
 })
